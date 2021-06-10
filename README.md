@@ -1,6 +1,7 @@
 ## NOTIFICATION SYSTEM
 
 About system
+Allows to notify staff with wide variety of methods
 
 ### Modules
 
